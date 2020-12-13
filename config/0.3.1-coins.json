@@ -899,17 +899,17 @@
     "coinpaprika_id": "vrsc-verus-coin",
     "electrum": [
       {
-        "url": "el0.veruscoin.io:17485"
+        "url": "el0.verus.io:17485"
       },
       {
-        "url": "el1.veruscoin.io:17485"
+        "url": "el1.verus.io:17485"
       },
       {
-        "url": "el2.veruscoin.io:17485"
+        "url": "el2.verus.io:17485"
       }
     ],
     "explorer_url": [
-      "https://explorer.veruscoin.io/"
+      "https://explorer.verus.io/"
     ],
     "active": false,
     "currently_enabled": false
