@@ -2145,22 +2145,6 @@
   "active": false,
   "currently_enabled": false
  },
- "OMG": {
-  "coin": "OMG",
-  "name": "OMG Network",
-  "coinpaprika_id": "omg-omg-network",
-  "eth_nodes": [
-   "http://eth1.cipig.net:8555",
-   "http://eth2.cipig.net:8555",
-   "http://eth3.cipig.net:8555"
-  ],
-  "explorer_url": [
-   "https://etherscan.io/"
-  ],
-  "type": "ERC-20",
-  "active": false,
-  "currently_enabled": false
- },
  "PAXG": {
   "coin": "PAXG",
   "name": "Paxos Gold",
@@ -2437,22 +2421,6 @@
   "coin": "SXP",
   "name": "Swipe",
   "coinpaprika_id": "sxp-swipe",
-  "eth_nodes": [
-   "http://eth1.cipig.net:8555",
-   "http://eth2.cipig.net:8555",
-   "http://eth3.cipig.net:8555"
-  ],
-  "explorer_url": [
-   "https://etherscan.io/"
-  ],
-  "type": "ERC-20",
-  "active": false,
-  "currently_enabled": false
- },
- "THX": {
-  "coin": "THX",
-  "name": "ThoreNext",
-  "coinpaprika_id": "thx-thorenext",
   "eth_nodes": [
    "http://eth1.cipig.net:8555",
    "http://eth2.cipig.net:8555",
