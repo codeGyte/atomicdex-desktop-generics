@@ -1316,16 +1316,136 @@
     "name": "QTUM (testnet)",
     "type": "QRC-20"
   },
-  "QC": {
+  "INK": {
+    "coin": "INK",
+    "name": "Ink",
+    "coingecko_id": "ink",
+    "coinpaprika_id": "ink-ink",
     "active": false,
-    "coin": "QC",
-    "coingecko_id": "qcash",
-    "coinpaprika_id": "test-coin",
     "currently_enabled": false,
     "explorer_url": [
       "https://explorer.qtum.org/"
     ],
+    "type": "QRC-20"
+  },
+  "SPC": {
+    "coin": "SPC",
+    "name": "SpaceChain",
+    "coingecko_id": "spacechain",
+    "coinpaprika_id": "spc-spacechain",
+    "active": false,
+    "currently_enabled": false,
+    "explorer_url": [
+      "https://explorer.qtum.org/"
+    ],
+    "type": "QRC-20"
+  },
+  "HPY": {
+    "coin": "HPY",
+    "name": "Hyper Pay",
+    "coingecko_id": "hyper-pay",
+    "coinpaprika_id": "hpy-hyper-pay",
+    "active": false,
+    "currently_enabled": false,
+    "explorer_url": [
+      "https://explorer.qtum.org/"
+    ],
+    "type": "QRC-20"
+  },
+  "HLC": {
+    "coin": "HLC",
+    "name": "HalalChain",
+    "coingecko_id": "halalchain",
+    "coinpaprika_id": "test-coin",
+    "active": false,
+    "currently_enabled": false,
+    "explorer_url": [
+      "https://explorer.qtum.org/"
+    ],
+    "type": "QRC-20"
+  },
+  "MED": {
+    "coin": "MED",
+    "name": "Medibloc",
+    "coingecko_id": "medibloc",
+    "coinpaprika_id": "med-medibloc-qrc20",
+    "active": false,
+    "currently_enabled": false,
+    "explorer_url": [
+      "https://explorer.qtum.org/"
+    ],
+    "type": "QRC-20"
+  },
+  "LSTR": {
+    "coin": "LSTR",
+    "name": "Luna Stars",
+    "coingecko_id": "luna-stars",
+    "coinpaprika_id": "lstr-luna-stars",
+    "active": false,
+    "currently_enabled": false,
+    "explorer_url": [
+      "https://explorer.qtum.org/"
+    ],
+    "type": "QRC-20"
+  },
+  "QBT": {
+    "coin": "QBT",
+    "name": "Qbao",
+    "coingecko_id": "qbao",
+    "coinpaprika_id": "qbt-qbao",
+    "active": false,
+    "currently_enabled": false,
+    "explorer_url": [
+      "https://explorer.qtum.org/"
+    ],
+    "type": "QRC-20"
+  },
+  "OC": {
+    "coin": "OC",
+    "name": "OceanChain",
+    "coingecko_id": "oceanchain",
+    "coinpaprika_id": "test-coin",
+    "active": false,
+    "currently_enabled": false,
+    "explorer_url": [
+      "https://explorer.qtum.org/"
+    ],
+    "type": "QRC-20"
+  },
+  "PUT": {
+    "coin": "PUT",
+    "name": "Profile Utility Token",
+    "coingecko_id": "profile-utility-token",
+    "coinpaprika_id": "put-profile-utility-token",
+    "active": false,
+    "currently_enabled": false,
+    "explorer_url": [
+      "https://explorer.qtum.org/"
+    ],
+    "type": "QRC-20"
+  },
+  "ZAT": {
+    "coin": "ZAT",
+    "name": "Zatgo",
+    "coingecko_id": "zatgo",
+    "coinpaprika_id": "zat-zatgo",
+    "active": false,
+    "currently_enabled": false,
+    "explorer_url": [
+      "https://explorer.qtum.org/"
+    ],
+    "type": "QRC-20"
+  },
+  "QC": {
+    "coin": "QC",
     "name": "Qcash",
+    "coingecko_id": "qcash",
+    "coinpaprika_id": "test-coin",
+    "active": false,
+    "currently_enabled": false,
+    "explorer_url": [
+      "https://explorer.qtum.org/"
+    ],
     "type": "QRC-20"
   },
   "PBC": {
