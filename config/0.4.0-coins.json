@@ -325,6 +325,23 @@
     "active": false,
     "currently_enabled": false
   },
+  "DP": {
+    "coin": "DP",
+    "name": "DigitalPrice",
+    "coinpaprika_id": "dp-digitalprice",
+    "coingecko_id": "digitalprice",
+    "electrum": [
+      {
+        "url": "1.eu.dp.electrum.dexstats.info:10021"
+      }
+    ],
+    "explorer_url": [
+      "https://dp.explorer.dexstats.info/"
+    ],
+    "type": "Smart Chain",
+    "active": false,
+    "currently_enabled": false
+  },
   "ECA": {
     "coin": "ECA",
     "name": "Electra",
