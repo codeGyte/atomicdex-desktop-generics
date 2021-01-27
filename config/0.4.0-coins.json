@@ -1407,7 +1407,7 @@
     "coin": "HLC",
     "name": "HalalChain",
     "coingecko_id": "halalchain",
-    "coinpaprika_id": "test-coin",
+    "coinpaprika_id": "hlc-halalchain",
     "active": false,
     "currently_enabled": false,
     "explorer_url": [
@@ -1455,7 +1455,7 @@
     "coin": "OC",
     "name": "OceanChain",
     "coingecko_id": "oceanchain",
-    "coinpaprika_id": "test-coin",
+    "coinpaprika_id": "oc-oceanchain",
     "active": false,
     "currently_enabled": false,
     "explorer_url": [
