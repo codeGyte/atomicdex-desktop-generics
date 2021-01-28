@@ -1,4 +1,21 @@
 {
+  "1INCH": {
+    "coin": "1INCH",
+    "name": "1inch",
+    "coinpaprika_id": "1inch-1inch",
+    "coingecko_id": "1inch",
+    "eth_nodes": [
+      "http://eth1.cipig.net:8555",
+      "http://eth2.cipig.net:8555",
+      "http://eth3.cipig.net:8555"
+    ],
+    "explorer_url": [
+      "https://etherscan.io/"
+    ],
+    "type": "ERC-20",
+    "active": false,
+    "currently_enabled": false
+  },
   "AXE": {
     "coin": "AXE",
     "name": "Axe",
@@ -305,6 +322,23 @@
       "https://dogechain.info/"
     ],
     "type": "UTXO",
+    "active": false,
+    "currently_enabled": false
+  },
+  "DP": {
+    "coin": "DP",
+    "name": "DigitalPrice",
+    "coinpaprika_id": "dp-digitalprice",
+    "coingecko_id": "digitalprice",
+    "electrum": [
+      {
+        "url": "1.eu.dp.electrum.dexstats.info:10021"
+      }
+    ],
+    "explorer_url": [
+      "https://dp.explorer.dexstats.info/"
+    ],
+    "type": "Smart Chain",
     "active": false,
     "currently_enabled": false
   },
@@ -891,6 +925,23 @@
     "active": false,
     "currently_enabled": false
   },
+  "SUSHI": {
+    "coin": "SUSHI",
+    "name": "Sushi",
+    "coinpaprika_id": "sushi-sushi",
+    "coingecko_id": "sushi",
+    "eth_nodes": [
+      "http://eth1.cipig.net:8555",
+      "http://eth2.cipig.net:8555",
+      "http://eth3.cipig.net:8555"
+    ],
+    "explorer_url": [
+      "https://etherscan.io/"
+    ],
+    "type": "ERC-20",
+    "active": false,
+    "currently_enabled": false
+  },
   "VRSC": {
     "coin": "VRSC",
     "type": "Smart Chain",
@@ -1356,7 +1407,7 @@
     "coin": "HLC",
     "name": "HalalChain",
     "coingecko_id": "halalchain",
-    "coinpaprika_id": "test-coin",
+    "coinpaprika_id": "hlc-halalchain",
     "active": false,
     "currently_enabled": false,
     "explorer_url": [
@@ -1404,7 +1455,7 @@
     "coin": "OC",
     "name": "OceanChain",
     "coingecko_id": "oceanchain",
-    "coinpaprika_id": "test-coin",
+    "coinpaprika_id": "oc-oceanchain",
     "active": false,
     "currently_enabled": false,
     "explorer_url": [
@@ -1919,22 +1970,6 @@
   "active": false,
   "currently_enabled": false
  },
- "FXC": {
-  "coin": "FXC",
-  "name": "Flexacoin",
-  "coinpaprika_id": "fxc-flexacoin",
-  "eth_nodes": [
-   "http://eth1.cipig.net:8555",
-   "http://eth2.cipig.net:8555",
-   "http://eth3.cipig.net:8555"
-  ],
-  "explorer_url": [
-   "https://etherscan.io/"
-  ],
-  "type": "ERC-20",
-  "active": false,
-  "currently_enabled": false
- },
  "GNO": {
   "coin": "GNO",
   "name": "Gnosis",
@@ -2195,22 +2230,6 @@
   "coin": "MLN",
   "name": "Melon Token",
   "coinpaprika_id": "mln-melon",
-  "eth_nodes": [
-   "http://eth1.cipig.net:8555",
-   "http://eth2.cipig.net:8555",
-   "http://eth3.cipig.net:8555"
-  ],
-  "explorer_url": [
-   "https://etherscan.io/"
-  ],
-  "type": "ERC-20",
-  "active": false,
-  "currently_enabled": false
- },
- "NOIA": {
-  "coin": "NOIA",
-  "name": "NOIA Token",
-  "coinpaprika_id": "noia-noia-network",
   "eth_nodes": [
    "http://eth1.cipig.net:8555",
    "http://eth2.cipig.net:8555",
@@ -2723,22 +2742,6 @@
   "coin": "WBTC",
   "name": "Wrapped BTC",
   "coinpaprika_id": "wbtc-wrapped-bitcoin",
-  "eth_nodes": [
-   "http://eth1.cipig.net:8555",
-   "http://eth2.cipig.net:8555",
-   "http://eth3.cipig.net:8555"
-  ],
-  "explorer_url": [
-   "https://etherscan.io/"
-  ],
-  "type": "ERC-20",
-  "active": false,
-  "currently_enabled": false
- },
- "XDCE": {
-  "coin": "XDCE",
-  "name": "XinFin XDCE",
-  "coinpaprika_id": "xdce-xinfin-network",
   "eth_nodes": [
    "http://eth1.cipig.net:8555",
    "http://eth2.cipig.net:8555",
