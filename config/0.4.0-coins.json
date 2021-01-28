@@ -1499,9 +1499,9 @@
     ],
     "type": "QRC-20"
   },
-  "PBC": {
-    "coin": "PBC",
-    "name": "Power Block Coin",
+  "SFUSD": {
+    "coin": "SFUSD",
+    "name": "SmartUSD",
     "coinpaprika_id": "test-coin",
     "coingecko_id": "test-coin",
     "electrum": [
