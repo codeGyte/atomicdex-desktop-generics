@@ -1970,22 +1970,6 @@
   "active": false,
   "currently_enabled": false
  },
- "FXC": {
-  "coin": "FXC",
-  "name": "Flexacoin",
-  "coinpaprika_id": "fxc-flexacoin",
-  "eth_nodes": [
-   "http://eth1.cipig.net:8555",
-   "http://eth2.cipig.net:8555",
-   "http://eth3.cipig.net:8555"
-  ],
-  "explorer_url": [
-   "https://etherscan.io/"
-  ],
-  "type": "ERC-20",
-  "active": false,
-  "currently_enabled": false
- },
  "GNO": {
   "coin": "GNO",
   "name": "Gnosis",
