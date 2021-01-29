@@ -1475,6 +1475,18 @@
     ],
     "type": "QRC-20"
   },
+  "TSL": {
+    "coin": "TSL",
+    "name": "Energo",
+    "coingecko_id": "energo",
+    "coinpaprika_id": "tsl-energo",
+    "active": false,
+    "currently_enabled": false,
+    "explorer_url": [
+      "https://explorer.qtum.org/"
+    ],
+    "type": "QRC-20"
+  },
   "ZAT": {
     "coin": "ZAT",
     "name": "Zatgo",
