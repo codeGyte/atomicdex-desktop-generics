@@ -1475,6 +1475,18 @@
     ],
     "type": "QRC-20"
   },
+  "TSL": {
+    "coin": "TSL",
+    "name": "Energo",
+    "coingecko_id": "energo",
+    "coinpaprika_id": "tsl-energo",
+    "active": false,
+    "currently_enabled": false,
+    "explorer_url": [
+      "https://explorer.qtum.org/"
+    ],
+    "type": "QRC-20"
+  },
   "ZAT": {
     "coin": "ZAT",
     "name": "Zatgo",
@@ -1634,22 +1646,6 @@
   "active": false,
   "currently_enabled": false
  },
- "BRC": {
-  "coin": "BRC",
-  "name": "Baer Chain",
-  "coinpaprika_id": "brc-baer-chain",
-  "eth_nodes": [
-   "http://eth1.cipig.net:8555",
-   "http://eth2.cipig.net:8555",
-   "http://eth3.cipig.net:8555"
-  ],
-  "explorer_url": [
-   "https://etherscan.io/"
-  ],
-  "type": "ERC-20",
-  "active": false,
-  "currently_enabled": false
- },
  "BTRS": {
   "coin": "BTRS",
   "name": "BitBall Treasure",
@@ -1718,22 +1714,6 @@
   "coin": "CFI",
   "name": "Cofoundit",
   "coinpaprika_id": "cfi-cofoundit",
-  "eth_nodes": [
-   "http://eth1.cipig.net:8555",
-   "http://eth2.cipig.net:8555",
-   "http://eth3.cipig.net:8555"
-  ],
-  "explorer_url": [
-   "https://etherscan.io/"
-  ],
-  "type": "ERC-20",
-  "active": false,
-  "currently_enabled": false
- },
- "CGCX": {
-  "coin": "CGCX",
-  "name": "CGCX Exchange Token",
-  "coinpaprika_id": "cgcx-cgcx",
   "eth_nodes": [
    "http://eth1.cipig.net:8555",
    "http://eth2.cipig.net:8555",
