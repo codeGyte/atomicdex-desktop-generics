@@ -879,6 +879,52 @@
     "active": false,
     "currently_enabled": false
   },
+  "SOULJA": {
+    "coin": "SOULJA",
+    "name": "SouljaCoin",
+    "coinpaprika_id": "test-coin",
+    "coingecko_id": "test-coin",
+    "electrum": [
+      {
+        "url": "electrum1.cipig.net:10035"
+      },
+      {
+        "url": "electrum2.cipig.net:10035"
+      },
+      {
+        "url": "electrum3.cipig.net:10035"
+      }
+    ],
+    "explorer_url": [
+      "https://explorer.souljacoin.cash/"
+    ],
+    "type": "Smart Chain",
+    "active": false,
+    "currently_enabled": false
+  },
+  "WSB": {
+    "coin": "WSB",
+    "name": "WallStreetBets",
+    "coinpaprika_id": "test-coin",
+    "coingecko_id": "test-coin",
+    "electrum": [
+      {
+        "url": "electrum1.cipig.net:10033"
+      },
+      {
+        "url": "electrum2.cipig.net:10033"
+      },
+      {
+        "url": "electrum3.cipig.net:10033"
+      }
+    ],
+    "explorer_url": [
+      "https://wsb.explorer.dexstats.info/"
+    ],
+    "type": "Smart Chain",
+    "active": false,
+    "currently_enabled": false
+  },
   "CHIPS": {
     "coin": "CHIPS",
     "type": "UTXO",
