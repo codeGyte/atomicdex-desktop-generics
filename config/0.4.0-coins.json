@@ -1710,22 +1710,6 @@
   "active": false,
   "currently_enabled": false
  },
- "CFI": {
-  "coin": "CFI",
-  "name": "Cofoundit",
-  "coinpaprika_id": "cfi-cofoundit",
-  "eth_nodes": [
-   "http://eth1.cipig.net:8555",
-   "http://eth2.cipig.net:8555",
-   "http://eth3.cipig.net:8555"
-  ],
-  "explorer_url": [
-   "https://etherscan.io/"
-  ],
-  "type": "ERC-20",
-  "active": false,
-  "currently_enabled": false
- },
  "CHSB": {
   "coin": "CHSB",
   "name": "SwissBorg",
@@ -2018,38 +2002,6 @@
   "coin": "HUSD",
   "name": "HUSD",
   "coinpaprika_id": "husd-husd",
-  "eth_nodes": [
-   "http://eth1.cipig.net:8555",
-   "http://eth2.cipig.net:8555",
-   "http://eth3.cipig.net:8555"
-  ],
-  "explorer_url": [
-   "https://etherscan.io/"
-  ],
-  "type": "ERC-20",
-  "active": false,
-  "currently_enabled": false
- },
- "HYN": {
-  "coin": "HYN",
-  "name": "Hyperion Token",
-  "coinpaprika_id": "hyn-hyperion",
-  "eth_nodes": [
-   "http://eth1.cipig.net:8555",
-   "http://eth2.cipig.net:8555",
-   "http://eth3.cipig.net:8555"
-  ],
-  "explorer_url": [
-   "https://etherscan.io/"
-  ],
-  "type": "ERC-20",
-  "active": false,
-  "currently_enabled": false
- },
- "IOTX": {
-  "coin": "IOTX",
-  "name": "IoTeX Network",
-  "coinpaprika_id": "iotx-iotex",
   "eth_nodes": [
    "http://eth1.cipig.net:8555",
    "http://eth2.cipig.net:8555",
