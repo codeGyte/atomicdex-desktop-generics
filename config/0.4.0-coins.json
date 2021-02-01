@@ -85,6 +85,26 @@
     "active": false,
     "currently_enabled": false
   },
+  "BTCZ": {
+    "coin": "BTCZ",
+    "name": "BitcoinZ",
+    "coinpaprika_id": "btcz-bitcoinz",
+    "coingecko_id": "bitcoinz",
+    "electrum": [
+      {
+        "url": "electrum1.btcz.rocks:50001"
+      },
+      {
+        "url": "electrum2.btcz.rocks:50001"
+      }
+    ],
+    "explorer_url": [
+      "https://btczexplorer.blockhub.info/"
+    ],
+    "type": "UTXO",
+    "active": false,
+    "currently_enabled": false
+  },
   "BCH": {
     "active": false,
     "coin": "BCH",
