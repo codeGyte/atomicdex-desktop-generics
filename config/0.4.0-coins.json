@@ -1299,13 +1299,13 @@
     "coinpaprika_id": "firo-firo",
     "electrum": [
       {
-        "url": "electrumx01.zcoin.io:50001"
+        "url": "electrumx01.firo.org:50001"
       },
       {
-        "url": "electrumx02.zcoin.io:50001"
+        "url": "electrumx02.firo.org:50001"
       },
       {
-        "url": "electrumx03.zcoin.io:50001"
+        "url": "electrumx03.firo.org:50001"
       }
     ],
     "explorer_url": [
