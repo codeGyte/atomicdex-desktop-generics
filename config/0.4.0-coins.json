@@ -16,6 +16,23 @@
     "active": false,
     "currently_enabled": false
   },
+  "ARPA": {
+    "coin": "ARPA",
+    "name": "ARPA Chain",
+    "coinpaprika_id": "arpa-arpa-chain",
+    "coingecko_id": "arpa-chain",
+    "eth_nodes": [
+      "http://eth1.cipig.net:8555",
+      "http://eth2.cipig.net:8555",
+      "http://eth3.cipig.net:8555"
+    ],
+    "explorer_url": [
+      "https://etherscan.io/"
+    ],
+    "type": "ERC-20",
+    "active": false,
+    "currently_enabled": false
+  },
   "AXE": {
     "coin": "AXE",
     "name": "Axe",
