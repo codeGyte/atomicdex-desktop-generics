@@ -231,6 +231,23 @@
     "active": false,
     "currently_enabled": false
   },
+  "CLC": {
+    "coin": "CLC",
+    "name": "Collider Coin",
+    "coinpaprika_id": "test-coin",
+    "coingecko_id": "test-coin",
+    "electrum": [
+      {
+        "url": "electrumx.cryptocollider.com:10001"
+      }
+    ],
+    "explorer_url": [
+      "https://clc.explorer.dexstats.info/"
+    ],
+    "type": "Smart Chain",
+    "active": false,
+    "currently_enabled": false
+  },
   "COQUI": {
     "coin": "COQUI",
     "name": "Coqui Cash",
