@@ -16,6 +16,23 @@
     "active": false,
     "currently_enabled": false
   },
+  "ARPA": {
+    "coin": "ARPA",
+    "name": "ARPA Chain",
+    "coinpaprika_id": "arpa-arpa-chain",
+    "coingecko_id": "arpa-chain",
+    "eth_nodes": [
+      "http://eth1.cipig.net:8555",
+      "http://eth2.cipig.net:8555",
+      "http://eth3.cipig.net:8555"
+    ],
+    "explorer_url": [
+      "https://etherscan.io/"
+    ],
+    "type": "ERC-20",
+    "active": false,
+    "currently_enabled": false
+  },
   "AXE": {
     "coin": "AXE",
     "name": "Axe",
@@ -209,6 +226,23 @@
     ],
     "explorer_url": [
       "https://ccl.explorer.dexstats.info/"
+    ],
+    "type": "Smart Chain",
+    "active": false,
+    "currently_enabled": false
+  },
+  "CLC": {
+    "coin": "CLC",
+    "name": "Collider Coin",
+    "coinpaprika_id": "test-coin",
+    "coingecko_id": "test-coin",
+    "electrum": [
+      {
+        "url": "electrumx.cryptocollider.com:10001"
+      }
+    ],
+    "explorer_url": [
+      "https://clc.explorer.dexstats.info/"
     ],
     "type": "Smart Chain",
     "active": false,
@@ -1282,13 +1316,13 @@
     "coinpaprika_id": "firo-firo",
     "electrum": [
       {
-        "url": "electrumx01.zcoin.io:50001"
+        "url": "electrumx01.firo.org:50001"
       },
       {
-        "url": "electrumx02.zcoin.io:50001"
+        "url": "electrumx02.firo.org:50001"
       },
       {
-        "url": "electrumx03.zcoin.io:50001"
+        "url": "electrumx03.firo.org:50001"
       }
     ],
     "explorer_url": [
