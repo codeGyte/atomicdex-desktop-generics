@@ -492,6 +492,34 @@
     "active": false,
     "currently_enabled": false
   },
+  "GRS": {
+    "coin": "GRS",
+    "name": "Groestlcoin",
+    "coinpaprika_id": "grs-groestlcoin",
+    "coingecko_id": "groestlcoin",
+    "electrum": [
+      {
+        "url": "electrum10.groestlcoin.org:50001"
+      },
+      {
+        "url": "electrum11.groestlcoin.org:50001"
+      },
+      {
+        "url": "electrum13.groestlcoin.org:50001"
+      },
+      {
+        "url": "electrum14.groestlcoin.org:50001"
+      }
+    ],
+    "explorer_url": [
+      "https://chainz.cryptoid.info/grs/"
+    ],
+    "explorer_tx_url": "tx.dws?",
+    "explorer_address_url": "address.dws?",
+    "type": "UTXO",
+    "active": false,
+    "currently_enabled": false
+  },
   "HODL": {
     "coin": "HODL",
     "name": "HODL",
@@ -1274,12 +1302,6 @@
       },
       {
         "url": "2.eu.thc.electrum.dexstats.info:10020"
-      },
-      {
-        "url": "165.22.52.123:10022"
-      },
-      {
-        "url": "157.230.45.184:10022"
       }
     ],
     "explorer_url": [
