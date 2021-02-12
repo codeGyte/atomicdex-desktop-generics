@@ -712,7 +712,7 @@
   "AWC": {
     "active": false,
     "coin": "AWC",
-    "coingecko_id": "awc",
+    "coingecko_id": "atomic-wallet-coin",
     "coinpaprika_id": "awc-atomic-wallet-coin",
     "currently_enabled": false,
     "eth_nodes": [
@@ -746,7 +746,7 @@
   "TUSD": {
     "active": false,
     "coin": "TUSD",
-    "coingecko_id": "tusd",
+    "coingecko_id": "true-usd",
     "coinpaprika_id": "tusd-trueusd",
     "currently_enabled": false,
     "eth_nodes": [
@@ -1573,7 +1573,7 @@
   "LSTR": {
     "coin": "LSTR",
     "name": "Luna Stars",
-    "coingecko_id": "luna-stars",
+    "coingecko_id": "meetluna",
     "coinpaprika_id": "lstr-luna-stars",
     "active": false,
     "currently_enabled": false,
