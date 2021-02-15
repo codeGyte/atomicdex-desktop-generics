@@ -925,8 +925,8 @@
     "active": false,
     "currently_enabled": false
   },
-  "QI": {
-    "coin": "QI",
+  "QIAD": {
+    "coin": "QIAD",
     "name": "QiSwap",
     "coingecko_id": "test-coin",
     "coinpaprika_id": "test-coin",
