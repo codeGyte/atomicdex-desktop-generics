@@ -925,8 +925,20 @@
     "active": false,
     "currently_enabled": false
   },
-  "QIAD": {
-    "coin": "QIAD",
+  "QIAIR": {
+    "coin": "QIAIR",
+    "name": "Qi Airdrop Token",
+    "coingecko_id": "test-coin",
+    "coinpaprika_id": "test-coin",
+    "active": false,
+    "currently_enabled": false,
+    "explorer_url": [
+      "https://explorer.qtum.org/"
+    ],
+    "type": "QRC-20"
+  },
+  "QI": {
+    "coin": "QI",
     "name": "QiSwap",
     "coingecko_id": "test-coin",
     "coinpaprika_id": "test-coin",
