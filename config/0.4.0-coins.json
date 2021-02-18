@@ -940,7 +940,7 @@
   "QI": {
     "coin": "QI",
     "name": "QiSwap",
-    "coingecko_id": "test-coin",
+    "coingecko_id": "qiswap",
     "coinpaprika_id": "test-coin",
     "active": false,
     "currently_enabled": false,
