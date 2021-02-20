@@ -1340,6 +1340,26 @@
     "active": false,
     "currently_enabled": false
   },
+  "VRM": {
+    "coin": "VRM",
+    "name": "Verium Reserve",
+    "coingecko_id": "veriumreserve",
+    "coinpaprika_id": "vrm-veriumreserve",
+    "electrum": [
+      {
+        "url": "electrum01-vrm.vericonomy.com:50001"
+      },
+      {
+        "url": "electrum02-vrm.vericonomy.com:50001"
+      }
+    ],
+    "explorer_url": [
+      "https://explorer-vrm.vericonomy.com/"
+    ],
+    "type": "UTXO",
+    "active": false,
+    "currently_enabled": false
+  },
   "WLC": {
     "coin": "WLC",
     "name": "Wireless Coin",
