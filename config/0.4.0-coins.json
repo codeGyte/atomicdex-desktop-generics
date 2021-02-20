@@ -976,7 +976,7 @@
     "coin": "RFOX",
     "name": "RedFOX Labs",
     "coinpaprika_id": "rfox-redfox-labs",
-    "coingecko_id": "redfox-labs",
+    "coingecko_id": "redfox-labs-2",
     "eth_nodes": [
       "http://eth1.cipig.net:8555",
       "http://eth2.cipig.net:8555",
