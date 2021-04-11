@@ -231,6 +231,7 @@
     ],
     "type": "ERC-20",
     "active": false,
+    "stable": true,
     "currently_enabled": false
   },
   "CCL": {
@@ -334,6 +335,7 @@
     ],
     "type": "ERC-20",
     "active": false,
+    "stable": true,
     "currently_enabled": false
   },
   "DASH": {
@@ -715,6 +717,7 @@
     ],
     "type": "ERC-20",
     "active": false,
+    "stable": true,
     "currently_enabled": false
   },
   "ETH": {
@@ -748,6 +751,7 @@
     "explorer_url": [
       "https://etherscan.io/"
     ],
+    "stable": true,
     "type": "ERC-20",
     "name": "USD Coin"
   },
@@ -800,6 +804,7 @@
       "https://etherscan.io/"
     ],
     "type": "ERC-20",
+    "stable": true,
     "name": "True USD"
   },
   "KMD": {
@@ -1011,23 +1016,6 @@
     "explorer_url": [
       "https://revs.explorer.dexstats.info/"
     ],
-    "active": false,
-    "currently_enabled": false
-  },
-  "RFOX": {
-    "coin": "RFOX",
-    "name": "RedFOX Labs",
-    "coinpaprika_id": "rfox-redfox-labs",
-    "coingecko_id": "redfox-labs-2",
-    "eth_nodes": [
-      "http://eth1.cipig.net:8555",
-      "http://eth2.cipig.net:8555",
-      "http://eth3.cipig.net:8555"
-    ],
-    "explorer_url": [
-      "https://etherscan.io/"
-    ],
-    "type": "ERC-20",
     "active": false,
     "currently_enabled": false
   },
@@ -1368,7 +1356,7 @@
   "VRA": {
     "coin": "VRA",
     "name": "Verasity",
-    "coingecko_id": "verasity-new",
+    "coingecko_id": "verasity",
     "coinpaprika_id": "vra-verasity",
     "eth_nodes": [
       "http://eth1.cipig.net:8555",
@@ -1748,6 +1736,7 @@
       "https://explorer.pbc.kmd.sh/"
     ],
     "type": "UTXO",
+    "stable": true,
     "active": false,
     "currently_enabled": false
   },
@@ -2259,6 +2248,7 @@
   ],
   "type": "ERC-20",
   "active": false,
+  "stable": true,
   "currently_enabled": false
  },
  "JWL": {
