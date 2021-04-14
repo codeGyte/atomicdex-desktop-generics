@@ -29,8 +29,8 @@
     "currently_enabled": false
   },
      "KMD-BEP20": {
-    "coin": "KMD-BEP20,
-    "ocoin": "KMD,
+    "coin": "KMD-BEP20",
+    "ocoin": "KMD",
     "name": "Komodo",
     "explorer_url": [
       "https://bscscan.io/"
@@ -40,7 +40,7 @@
     "currently_enabled": false
   },
        "ADA-BEP20": {
-    "coin": "ADA-BEP20,
+    "coin": "ADA-BEP20",
     "name": "Cardano",
     "coingecko_id": "cardano",
     "explorer_url": [
@@ -51,9 +51,9 @@
     "currently_enabled": false
   },
          "ETH-BEP20": {
-    "coin": "ETH-BEP20,
+    "coin": "ETH-BEP20",
     "name": "Ethreum",
-    "ocoin": "ETH,
+    "ocoin": "ETH",
     "explorer_url": [
       "https://bscscan.io/"
     ],
@@ -62,9 +62,9 @@
     "currently_enabled": false
   },
     "BUSD-BEP20": {
-    "coin": "BUSD-BEP20,
+    "coin": "BUSD-BEP20",
     "name": "Binance USD",
-    "ocoin": "ERC20,
+    "ocoin": "ERC20",
     "explorer_url": [
       "https://bscscan.io/"
     ],
@@ -73,7 +73,7 @@
     "currently_enabled": false
   },
       "USDT-BEP20": {
-    "coin": "USDT-BEP20,
+    "coin": "USDT-BEP20",
     "name": "Tether",
     "coingecko_id": "tether",
     "explorer_url": [
@@ -84,9 +84,9 @@
     "currently_enabled": false
   },
         "USDC-BEP20": {
-    "coin": "USDC-BEP20,
+    "coin": "USDC-BEP20",
     "name": "USD Coin",
-    "ocoin": "ERC20,
+    "ocoin": "ERC20",
     "explorer_url": [
       "https://bscscan.io/"
     ],
@@ -95,9 +95,9 @@
     "currently_enabled": false
   },
           "TUSD-BEP20": {
-    "coin": "TUSD-BEP20,
+    "coin": "TUSD-BEP20",
     "name": "True USD",
-    "ocoin": "ERC20,
+    "ocoin": "ERC20",
     "explorer_url": [
       "https://bscscan.io/"
     ],
@@ -106,9 +106,9 @@
     "currently_enabled": false
   },
             "DAI-BEP20": {
-    "coin": "DAI-BEP20,
+    "coin": "DAI-BEP20",
     "name": "Dai",
-    "ocoin": "ERC20,
+    "ocoin": "ERC20",
     "explorer_url": [
       "https://bscscan.io/"
     ],
@@ -117,9 +117,9 @@
     "currently_enabled": false
   },
               "PAX-BEP20": {
-    "coin": "PAX-BEP20,
+    "coin": "PAX-BEP20",
     "name": "Paxos Standard",
-    "ocoin": "ERC20,
+    "ocoin": "ERC20",
     "explorer_url": [
       "https://bscscan.io/"
     ],
